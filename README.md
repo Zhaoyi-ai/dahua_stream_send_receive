@@ -1,2 +1,4 @@
 # dahua_stream_send_receive
 用Python实现大华视频流的接收和发送代码，还有用Java实现的视频流接收代码
+其中文件夹dahua是python实现的视频流发送和接收代码
+文件夹dahuaReceive是Java实现的视频流接收代码
